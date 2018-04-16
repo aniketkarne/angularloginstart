@@ -4,6 +4,20 @@
 # angularloginstart
 angular 5 start project with login page
 
+installation Guide
+
+1) hit this command to clone the repo
+
+git clone https://github.com/aniketkarne/angularloginstart.git
+
+2) install packages
+
+npm install
+
+3) to start app run command
+
+ng serve
+
 
 # Angularlogin
 
